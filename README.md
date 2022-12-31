@@ -2,15 +2,14 @@
 
 Projeto da Alura cursos online, desenvolvido em Python3 com framework Django
 
-## Projeto final aula 1
+## Projeto final aula 5
 
 Nessa aula:
 
-- Criamos uma pasta para manter todo código da nossa aplicação;
+- Aprendemos como enviar e exibir dados para uma página;
 
-- Utilizamos o módulo venv, que fornece suporte para a criação de ambientes virtuais leves com seus próprios diretórios, opcionalmente isolados dos diretórios do sistema;
+- Exibimos as receitas que estão no banco de dados;
 
-- Utilizamos o pip para instalar o Django em nosso ambiente virtual;
+- Alteramos a `url` da index, exibindo como cada receita é feita, seus ingredientes e outras informações.
 
-- Iniciamos o desenvolvimento da nossa aplicação com o comando django-admin start project alurareceita e subimos o servidor com o comando python manage.py runserver.
 
